@@ -3,11 +3,11 @@
 | Date  | Goal                            | Note                 |
 |-------|---------------------------------|----------------------|
 | 9/12  | 課程介紹                         |                      |
-| 9/19  | 網路線製作練習                    |                      |
-| 10/3  | Lab 1 Wireshark                 | Deadline: 當場 Demo   |
+| 9/19  | Lab 1: 網路線製作練習                    |                      |
+| 10/3  | Lab 2: Wireshark                 | Deadline: 當場 Demo   |
 | 10/24 | Midterm Exam 1（1-4 week）       |                      |
-| 10/31 | Lab 2-1 Socket programming      |                      |
-| 11/7  | Lab 2-2 Socket programming <br> (Spec Announcement)    | Deadline: 11/20 23:59     |
+| 10/31 | Lab 3-1: Socket programming      |                      |
+| 11/7  | Lab 3-2: Socket programming <br> (Spec Announcement)    | Deadline: 11/20 23:59     |
 | 11/21 | Final Project Spec Announcement | 網路流量頻寬控制程式     |
 | 12/5  | Midterm Exam 2（5-8 week）       |                      |
 | 12/19 | Final Project 設計報告一         |                      |
