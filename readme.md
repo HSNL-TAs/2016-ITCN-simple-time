@@ -27,3 +27,9 @@ $ gcc client.c -o client
 # execute
 $ ./client
 ```
+
+## Deadline
+You can demonstrate this lab at TA time (15:30 ~ 17:20 on Wed.) <br>
+Please also uplaod your code to ilms system
+
+Deadline: 2016/11/7 (Mon.)
