@@ -1,5 +1,5 @@
 # Simple-time
-A simple server that replies current time to connected client.
+This is a socket programming example, a simple server that replies current time to connected client.<br>
 
 ## Download
 #### With simple browser
@@ -27,6 +27,10 @@ $ gcc client.c -o client
 # execute
 $ ./client
 ```
+## Requirement
+**Please modify this project to an Echo Server**
+- Client: User can send message to server.
+- Server:	Server will	echo message back to connected client.
 
 ## Deadline
 You can demonstrate this lab at TA time (15:30 ~ 17:20 on Wed.) <br>
