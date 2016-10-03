@@ -33,7 +33,12 @@ $ ./client
 - Server:	Server will	echo message back to connected client.
 
 ## Deadline
-You can demonstrate this lab at TA time (15:30 ~ 17:20 on Wed.) <br>
-Please also uplaod your code to ilms system
+Please also uplaod **your code** and **a screenshot of your result** to ilms system.
 
-Deadline: 2016/11/7 (Mon.)
+Deadline: 2016/11/7 23:59 (Mon.)
+
+## Question
+Please feel free to ask qustions at
+- [Here](https://github.com/HSNL-TAs/2016-ITCN-simple-time/issues), or
+- on the ilms forum, or
+- come at Office hour (15:30 ~ 17:20 on Wednesday, 綜二 705)
