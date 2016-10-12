@@ -36,7 +36,7 @@ $ ./client
 Please also uplaod **your code** and **a screenshot of your result** to ilms system.
 ( Package them as `.zip` format and name after your **student ID**)
 
-Deadline: 2016/11/7 23:59 (Mon.)
+Deadline: 2016/11/6 23:59 (Sun.)
 
 ## Question
 Please feel free to ask qustions at
