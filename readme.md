@@ -30,7 +30,7 @@ $ ./client
 ## Requirement
 **Please modify this project to an Echo Server**
 - Client: User can send message to server.
-- Server:	Server will	echo message back to connected client.
+- Server:	Server will	echo the received message back to connected client.
 
 ## Deadline
 Please also uplaod **your code** and **a screenshot of your result** to ilms system.
