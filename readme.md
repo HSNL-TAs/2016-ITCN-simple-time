@@ -9,6 +9,9 @@ You can click `Download ZIP` to download a zip file directly
 #### With Git
 
 1. Install Git on your system
+```
+sudo apt-get install git
+```
 2. Open command prompt
 3. Input `git clone https://github.com/HSNL-TAs/2016-ITCN-simple-time.git`
 
