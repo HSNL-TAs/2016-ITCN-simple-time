@@ -52,7 +52,7 @@ int main (int argc , char **argv) {
     exit(1);
   }
   buf[read_bytes] = '\0';
-  printf("Server datetimes: %s\r", buf);
+  printf("Server datetimes: %s\n", buf);
   close(cli_fd);
 
   return 0;
